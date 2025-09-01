@@ -1,5 +1,7 @@
 # PF LAB
-*Lab Work*
+*Lab Work*\
+**Web Based**\
+***Cloud Based***
 ## Main Topics
 * Branch
 * Merge
@@ -7,7 +9,7 @@
 ### Commands
 1. Pull
 2. Push\
-~~Mistake~~\
+~~Mistake~~
 - [ ] Complete
 - [x] Incomplete
 
